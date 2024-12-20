@@ -64,7 +64,9 @@ Write a JavaScript function to sort an array of strings by their lengths in asce
 
 ````javascript
 const testStrings = ["apple", "banana", "kiwi", "strawberry", "grape"];
-console.log(sortStringsByLength(testStrings));  ```
+console.log(sortStringsByLength(testStrings));  
+````
 Expected output:
+
 ``` ["kiwi", "grape", "apple", "banana", "strawberry"] ```
 ````

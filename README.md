@@ -14,6 +14,6 @@ Each directory has its own `README.md` file with detailed instructions on how to
 ```plaintext
 week01/
 ├── theory/
-│   └── README.md
+│   └── THEORY.md
 ├── exercise/
-│   └── README.md
+│   └── EXERCISE.md
